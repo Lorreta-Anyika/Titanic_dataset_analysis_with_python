@@ -17,8 +17,9 @@
    - Impact of Passenger Class  
    - Outliers & Anomalies  
 7. [Conclusion & Recommendations](conclusion--recommendations)
-8. [Author](author)
-9. [References](references)  
+8. [How to Use](how--to--use)
+9. [Author](author)
+10. [References](references)  
 
 ---
 
@@ -139,12 +140,43 @@ plt.show()
 
  ---
 
- ## 8. Author - Lorreta Anyika
+ ## 8. How to Use  
+
+### i. Clone the Repository  
+Clone this project repository from GitHub using:  
+```bash
+git clone https://github.com/your-username/titanic-analysis.git
+cd titanic-analysis
+```
+
+### ii. Set Up the Environment
+Ensure you have Python installed, then create a virtual environment and install the required dependencies:
+
+```python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### iii. Load the Dataset
+The Titanic dataset is provided in Excel (.xlsx) format. Load it using Pandas:
+
+```import pandas as pd
+df = pd.read_excel("titanic.xlsx")
+df.head()
+```
+
+### iv. Run Exploratory Data Analysis (EDA)
+Execute the eda.py script to generate insights: python eda.py
+Or open and run it in a Jupyter Notebook
+
+ ---
+
+ ## 9. Author - Lorreta Anyika
  This project is part of my portfolio, showcasing the python skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 ---
 
-## 9. References  
+## 10. References  
 - Titanic Dataset Source: [Kaggle](https://www.kaggle.com)  
 - Python Libraries: Pandas, Matplotlib, Seaborn, Scipy  
 
