@@ -16,15 +16,17 @@
    - Factors Affecting Survival  
    - Impact of Passenger Class  
    - Outliers & Anomalies  
-7. [Conclusion & Recommendations](conclusion--recommendations)  
-8. [References](references)  
+7. [Conclusion & Recommendations](conclusion--recommendations)
+8. [Author](author)
+9. [References](references)  
 
 ---
 
 ## 1. Project Overview  
 This project involves setting up a structured workflow for analyzing the Titanic dataset, performing **Exploratory Data Analysis (EDA)**, and answering key analytical questions using Python.  The dataset contains details such as passenger class, age, gender, fare, and survival status, making it an excellent resource for learning **data manipulation**, **visualization**, and **statistical analysis**.
 
-The goal is to extract meaningful insights, understand survival factors, and detect outliers. This project is designed to demonstrate python skills and techniques typically used by data analysts to explore, clean, and analyze transportation and logistics data. Using Pandas, NumPy, Matplotlib, and Seaborn, you will clean and explore the dataset, uncover trends, and gain insights into survival patterns. This project is ideal for beginners in data analysis and machine learning, helping them build a strong foundation in data preprocessing, visualization, and feature engineering.
+The goal of this project is to extract meaningful insights, understand the factors influencing survival, and detect outliers. It demonstrates Python skills and techniques commonly used by data analysts to explore, clean, and analyze transportation and logistics data. Using Pandas, NumPy, Matplotlib, and Seaborn, you will clean and explore the dataset, identify trends, and gain insights into survival patterns. This project is ideal for beginners in data analysis and machine learning, providing a strong foundation in data preprocessing, visualization, and feature engineering.
+
 ---
 
 ## 2. Data Source  
@@ -133,12 +135,22 @@ plt.show()
 - **Recommendations for Future Analysis:**  
   - Incorporate more features (e.g., social class beyond ticket class).  
   - Explore predictive modeling with **Machine Learning (Logistic Regression, Decision Trees)**.  
-  - Investigate relationships between **family size** and survival probability.  
+  - Investigate relationships between **family size** and survival probability.
+
+ ---
+
+ ## 8. Author - Lorreta Anyika
+ This project is part of my portfolio, showcasing the python skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 ---
 
-## 8. References  
+## 9. References  
 - Titanic Dataset Source: [Kaggle](https://www.kaggle.com)  
 - Python Libraries: Pandas, Matplotlib, Seaborn, Scipy  
 
 ---
+## Stay Updated and Join the Community
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/uchechukwu-lorreta-anyika-7b5b4a253/)
+- **Email**: [Email](lorretaucheanyika@outlook.com)
+
+Thank you for your support, and I look forward to connecting with you!
