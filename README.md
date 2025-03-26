@@ -22,8 +22,9 @@
 ---
 
 ## 1. Project Overview  
-This project explores the Titanic dataset using **Exploratory Data Analysis (EDA)** techniques. The goal is to extract meaningful insights, understand survival factors, and detect outliers.
+This project involves setting up a structured workflow for analyzing the Titanic dataset, performing **Exploratory Data Analysis (EDA)**, and answering key analytical questions using Python.  The dataset contains details such as passenger class, age, gender, fare, and survival status, making it an excellent resource for learning **data manipulation**, **visualization**, and **statistical analysis**.
 
+The goal is to extract meaningful insights, understand survival factors, and detect outliers. This project is designed to demonstrate python skills and techniques typically used by data analysts to explore, clean, and analyze transportation and logistics data. Using Pandas, NumPy, Matplotlib, and Seaborn, you will clean and explore the dataset, uncover trends, and gain insights into survival patterns. This project is ideal for beginners in data analysis and machine learning, helping them build a strong foundation in data preprocessing, visualization, and feature engineering.
 ---
 
 ## 2. Data Source  
